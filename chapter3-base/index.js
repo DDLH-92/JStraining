@@ -1,12 +1,5 @@
 
-// declaration
 
-var firstName;
+const name = 123;
 
-//initialisation
-
-firstName = 1;
-
-var myvar, myvar2, myvar3;
-
-console.log(myvar, myvar2, myvar3);
+name = 55;
