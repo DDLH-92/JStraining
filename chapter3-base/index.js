@@ -1,9 +1,3 @@
-const { Console } = require("console");
+const prix = 1e6;
 
-
-const name = 123;
-
-name = 55;
-const name = "Jean";
-
-console.log(typeof name);
+console.log(prix);
